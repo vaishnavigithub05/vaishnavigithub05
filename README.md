@@ -1,47 +1,70 @@
-## Hi there! 👋 I'm Vaishnavi  
+## Hi there! 👋 I'm vaishnavi
 
-I'm an aspiring **Data Scientist** passionate about turning data into actionable insights! I love working on challenging data problems, building predictive models, and leveraging machine learning to create meaningful impacts. 
+I'm an aspiring **Data Scientist** who loves turning data into actionable insights! I specialize in data wrangling, model building, and deploying AI solutions to solve real-world problems. When I'm not diving into data, I'm probably hanging out with my feline friend 🐾.
 
-![Data Science GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding GIF" width="500"/>
+</p>
 
 ### 🌱 Currently Learning
-- Advanced Machine Learning Techniques
 - Deep Learning with TensorFlow and PyTorch
 - Natural Language Processing (NLP)
+- Advanced Data Visualization with Plotly and Seaborn
 
 ### 🔭 Projects I'm Working On
-- Real-Time Threat Detection Software for Women Safety Analytics
-- Building a Recommendation System for E-Commerce Platforms
-- Predictive Modeling for Health Tracking Applications
+- **Women Safety Analytics**: Real-Time Threat Detection Software leveraging advanced analytics.
+- **Health Tracker**: Predictive modeling for a personalized health tracking application.
+- **E-Commerce Recommender System**: Building a recommendation engine using collaborative filtering and NLP.
 
 ### 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+#### Programming & Data Analysis
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
+
+#### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+#### Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+#### Development & Deployment
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+Feel free to connect with me on social media and let's explore the world of data together!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yourusername)
 
 ### 💬 Ask me about
 - Data Science and Machine Learning
 - Python for Data Analysis
-- Best Practices in Data Visualization
-- Building End-to-End Machine Learning Pipelines
+- Building AI-Powered Chatbots
+- End-to-End Machine Learning Pipelines
 
-### ⚡ Fun Fact
-I am a lifelong learner who loves to explore new AI techniques and play with datasets!
+### 🐾 Fun Fact
+I have a cat named "Tensor" who loves to sit on my keyboard while I code. 🐱
 
 ### 🤝 Let's Collaborate!
-I'm open to collaborating on interesting data science projects, machine learning challenges, and research initiatives. Feel free to reach out if you'd like to work together!
+I'm open to collaborating on innovative data science projects, machine learning research, and cool AI experiments. Drop me a message, and let's work on something amazing!
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="Cat Typing GIF" width="400"/>
+</p>
+
+---
+
